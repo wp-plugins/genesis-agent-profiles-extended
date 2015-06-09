@@ -1,7 +1,7 @@
 ===Genesis Agent Profiles Extended===
 
 Contributors: JDELIA
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=GNJE45UUSUDB6
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3SHMWYFBDVPYU
 Tags: genesis agent profiles, extended
 Requires at least: 4.0.0
 Tested up to: 4.2.2
