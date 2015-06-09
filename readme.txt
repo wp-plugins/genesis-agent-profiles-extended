@@ -82,5 +82,5 @@ Additional sorts: orderby=date, orderby=ID (post ID #)
 
 
 == Changelog ==
-= 1.0 =
+= 0.9.2 =
 Initial Release.
