@@ -82,7 +82,9 @@ Additional sorts: orderby=date, orderby=ID (post ID #)
 
 
 == Changelog ==
+
 = 0.9.3 =
 Updated stylesheet to center agent image on mobile phone view when on single agent profile.
+
 = 0.9.2 =
 Initial Release.
