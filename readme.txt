@@ -58,7 +58,6 @@ To show all agents sorted by menu_order (Order # in Page Attributes for that age
 
 Additional sorts: orderby=date, orderby=ID (post ID #)
 
-Why I wrote this plugin: http://savvyjackiedesigns.com/genesis-agent-profiles-extended-plugin/
 
 NEW AGENT PHOTO SIZE
 
