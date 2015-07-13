@@ -13,6 +13,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin extends the capabilities of the Genesis Agent Profiles plugin by AgentEvolution and is required to use this extended plugin. 
 
+Why I wrote this plugin: http://savvyjackiedesigns.com/genesis-agent-profiles-extended-plugin/
+
 NEW STYLESHEET 
 
 A new stylesheet replaces the stylesheet in the Genesis Agent Profiles plugin. If you prefer to use your own stylesheet, you can deregister it under Agent Directory under Settings. This deactivates both the original stylesheet and the extended stylesheet.
@@ -137,7 +139,8 @@ Additional sorts: orderby=date, orderby=ID (post ID #)
 
 
 ==Changelog==
-
+= 0.9.5 =
+Updated description on WordPress.org plugin page. 
 = 0.9.4 =
 Updated widget code to use PHP 5 __constructor() as PHP 4 $this->WP_Widget() is deprecated in upcoming release of WordPress 4.3. Version bump to 0.9.4 in plugin.php.
 = 0.9.3 =
@@ -148,7 +151,7 @@ Initial Release.
 
 ==Upgrade Notice==
 
-= 0.9.4=
+= 0.9.5=
 Updated code to support upcoming release of WordPress 4.3. Version bump to 0.9.4 in plugin.php.
 = 0.9.3 =
 Corrects format issue when viewing in portrait mode on viewport of 480px or less for single agent.
