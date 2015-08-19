@@ -4,7 +4,7 @@ Contributors: JDELIA
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3SHMWYFBDVPYU
 Tags: genesis, genesis framework, agent profiles, agent directory, real estate agents, real estate, staff, team, team members, genesis agent profiles, extended, agent evolution, wp listings, agentpress listings 
 Requires at least: 4.0.0
-Tested up to: 4.2.2
+Tested up to: 4.3.0
 Stable tag: 0.9.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
